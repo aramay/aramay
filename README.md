@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 
+![alt text](https://img.shields.io/badge/aramay-hello-brightgreen "Logo Title Text 1")
 <!--
 **aramay/aramay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
