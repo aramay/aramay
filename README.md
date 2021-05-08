@@ -7,8 +7,8 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/9372640/117519083-1f797080-af57-11eb-8057-8d17970e8776.png" alt="logo"
-	title="linkedin="150" height="100" />
+![linkedin (2)] (<img src="https://user-images.githubusercontent.com/9372640/117519083-1f797080-af57-11eb-8057-8d17970e8776.png" alt="logo"
+	title="linkedin="150" height="100" />)
   
   
 [LinkedIn](linkedin.com/aramay)
