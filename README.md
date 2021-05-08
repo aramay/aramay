@@ -2,6 +2,10 @@
 
 ### Hi there 👋 
 ![alt text](https://img.shields.io/badge/aramay-hello-brightgreen?style=for-the-badge&logo=appveyor "aramay")
+
+![linkedin (2)](https://user-images.githubusercontent.com/9372640/117519083-1f797080-af57-11eb-8057-8d17970e8776.png)
+[linkedin.com/aramay][LinkedIn]
+
 <!--
 **aramay/aramay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
