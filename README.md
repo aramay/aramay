@@ -3,8 +3,6 @@
 ### Hi there 👋 
 ![alt text](https://img.shields.io/badge/aramay-hello-brightgreen?style=for-the-badge&logo=appveyor "aramay")
 
-  
-[LinkedIn](linkedin.com/aramay)
 
 <!--
 **aramay/aramay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
