@@ -3,6 +3,8 @@
 ### Hi there 👋 
 ![alt text](https://img.shields.io/badge/aramay-hello-brightgreen?style=for-the-badge&logo=appveyor "aramay")
 
+<img src="https://user-images.githubusercontent.com/9372640/119020980-bb41ae00-b953-11eb-9313-85a944bc8c6b.png" alt="drawing" width="20"/>
+
 Fork me on Github ![git-icon](<img src="https://user-images.githubusercontent.com/9372640/119020980-bb41ae00-b953-11eb-9313-85a944bc8c6b.png" alt="drawing" width="20"/>)
 
 <!--
