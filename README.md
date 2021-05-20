@@ -3,7 +3,7 @@
 ### Hi there 👋 
 ![alt text](https://img.shields.io/badge/aramay-hello-brightgreen?style=for-the-badge&logo=appveyor "aramay")
 
-Fork me on Github ![git-icon](https://user-images.githubusercontent.com/9372640/119020980-bb41ae00-b953-11eb-9313-85a944bc8c6b.png width: 25px; height: 25px)
+Fork me on Github ![git-icon](https://user-images.githubusercontent.com/9372640/119020980-bb41ae00-b953-11eb-9313-85a944bc8c6b.png =25x25)
 
 <!--
 **aramay/aramay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
