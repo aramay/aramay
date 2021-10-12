@@ -4,10 +4,6 @@
 ![alt text](https://img.shields.io/badge/aramay-hello-brightgreen?style=for-the-badge&logo=appveyor "aramay")
 
 
-
-
-Fork me on Github ![git-icon](https://user-images.githubusercontent.com/9372640/119025100-a3b8f400-b958-11eb-80f7-2165f65aa97e.png)
-
 <!--
 **aramay/aramay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
